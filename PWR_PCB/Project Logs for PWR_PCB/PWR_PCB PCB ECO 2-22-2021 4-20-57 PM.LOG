@@ -1,0 +1,30 @@
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=IREF0 Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C85-1
+Added Pin To Net: NetName=IREF9 Pin=C85-2
+Added Pin To Net: NetName=IREF0_M Pin=H14-1
+Added Pin To Net: NetName=IREF1_M Pin=H14-2
+Added Pin To Net: NetName=IREF2_M Pin=H14-3
+Added Pin To Net: NetName=IREF3_M Pin=H14-4
+Added Pin To Net: NetName=GND Pin=H14-5
+Added Pin To Net: NetName=IREF4_M Pin=H14-7
+Added Pin To Net: NetName=IREF5_M Pin=H14-8
+Added Pin To Net: NetName=IREF6_M Pin=H14-9
+Added Pin To Net: NetName=IREF7_M Pin=H14-10
+Added Pin To Net: NetName=GND Pin=H14-11
+Added Pin To Net: NetName=IREF8_M Pin=H18-1
+Added Pin To Net: NetName=IREF9_M Pin=H18-2
+Added Pin To Net: NetName=IREF10_M Pin=H18-3
+Added Pin To Net: NetName=IREF11_M Pin=H18-4
+Added Pin To Net: NetName=GND Pin=H18-5
+Added Pin To Net: NetName=IREF12_M Pin=H18-7
+Added Pin To Net: NetName=IREF13_M Pin=H18-8
+Added Pin To Net: NetName=IREF14_M Pin=H18-9
+Added Pin To Net: NetName=IREF15_M Pin=H18-10
+Added Pin To Net: NetName=GND Pin=H18-11
+Added Member To Class: ClassName=PWR_PCB Member=Component C10 Cap Semi
+Added Member To Class: ClassName=PWR_PCB Member=Component C25 Cap Semi
+Added Member To Class: ClassName=PWR_PCB Member=Component C85 Cap Semi
+Added Member To Class: ClassName=PWR_PCB Member=Component H14 HEADER_2X6_SMT
+Added Member To Class: ClassName=PWR_PCB Member=Component H18 HEADER_2X6_SMT
+Added Room: Name=PWR_PCB

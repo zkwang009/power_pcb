@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=NC0 Pin=VR5-3
+Removed Pin From Net: NetName=NC0 Pin=VR6-3
+Removed Pin From Net: NetName=NC0 Pin=VR7-3
+Removed Pin From Net: NetName=NC0 Pin=VR8-3
+Removed Pin From Net: NetName=NC0 Pin=VR9-3
+Removed Pin From Net: NetName=NC0 Pin=VR10-3
+Removed Pin From Net: NetName=NC0 Pin=VR11-3
+Removed Pin From Net: NetName=NC0 Pin=VR12-3
+Added Member To Class: ClassName=PWR_PCB Member=Component C25 Cap Semi
+Added Member To Class: ClassName=PWR_PCB Member=Component C26 Cap Semi
+Added Member To Class: ClassName=PWR_PCB Member=Component C27 Cap Semi
+Added Member To Class: ClassName=PWR_PCB Member=Component C28 Cap Semi
+Added Member To Class: ClassName=PWR_PCB Member=Component C41 Cap Semi
+Added Member To Class: ClassName=PWR_PCB Member=Component C42 Cap Semi
+Added Member To Class: ClassName=PWR_PCB Member=Component C43 Cap Semi
+Added Member To Class: ClassName=PWR_PCB Member=Component C44 Cap Semi
+Added Member To Class: ClassName=PWR_PCB Member=Component H15 HEADER_2X6_SMT
+Added Member To Class: ClassName=PWR_PCB Member=Component H16 HEADER_2X6_SMT
+Added Member To Class: ClassName=PWR_PCB Member=Component H17 HEADER_2X6_SMT
+Added Room: Name=PWR_PCB

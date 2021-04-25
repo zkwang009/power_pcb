@@ -1,0 +1,61 @@
+Added Pin To Net: NetName=DIG0_V33_0 Pin=H9-1
+Added Pin To Net: NetName=DIG1_V33_0 Pin=H9-2
+Added Pin To Net: NetName=DIG2_V33_0 Pin=H9-3
+Added Pin To Net: NetName=DIG3_V33_0 Pin=H9-4
+Added Pin To Net: NetName=GND Pin=H9-5
+Added Pin To Net: NetName=VDD33_FPGA_0 Pin=H9-6
+Added Pin To Net: NetName=DIG4_V33_0 Pin=H9-7
+Added Pin To Net: NetName=DIG5_V33_0 Pin=H9-8
+Added Pin To Net: NetName=GND Pin=H9-11
+Added Pin To Net: NetName=VDD33_FPGA_0 Pin=H9-12
+Added Pin To Net: NetName=EN_LVL_0 Pin=H11-2
+Added Pin To Net: NetName=EN_LVL_0 Pin=H11-4
+Added Pin To Net: NetName=GND Pin=H15-1
+Added Pin To Net: NetName=GND Pin=H15-2
+Added Pin To Net: NetName=GND Pin=H15-3
+Added Pin To Net: NetName=VDD12_0 Pin=H15-4
+Added Pin To Net: NetName=VDD12_0 Pin=H15-5
+Added Pin To Net: NetName=VDD12_0 Pin=H15-6
+Added Pin To Net: NetName=DIG0_0 Pin=H15-7
+Added Pin To Net: NetName=DIG1_0 Pin=H15-8
+Added Pin To Net: NetName=DIG2_0 Pin=H15-9
+Added Pin To Net: NetName=DIG3_0 Pin=H15-10
+Added Pin To Net: NetName=DIG4_0 Pin=H15-11
+Added Pin To Net: NetName=DIG5_0 Pin=H15-12
+Added Pin To Net: NetName=DIG0_0 Pin=U5-1
+Added Pin To Net: NetName=DIG1_0 Pin=U5-2
+Added Pin To Net: NetName=DIG2_0 Pin=U5-3
+Added Pin To Net: NetName=VDD12_0 Pin=U5-4
+Added Pin To Net: NetName=EN_LVL_0 Pin=U5-5
+Added Pin To Net: NetName=DIG3_0 Pin=U5-6
+Added Pin To Net: NetName=DIG4_0 Pin=U5-7
+Added Pin To Net: NetName=DIG5_0 Pin=U5-8
+Added Pin To Net: NetName=DIG5_V33_0 Pin=U5-9
+Added Pin To Net: NetName=DIG4_V33_0 Pin=U5-10
+Added Pin To Net: NetName=DIG3_V33_0 Pin=U5-11
+Added Pin To Net: NetName=GND Pin=U5-12
+Added Pin To Net: NetName=VDD33_FPGA_0 Pin=U5-13
+Added Pin To Net: NetName=DIG2_V33_0 Pin=U5-14
+Added Pin To Net: NetName=DIG1_V33_0 Pin=U5-15
+Added Pin To Net: NetName=DIG0_V33_0 Pin=U5-16
+Added Member To Class: ClassName=PWR_PCB Member=Component C19 Cap Semi
+Added Member To Class: ClassName=PWR_PCB Member=Component C24 Cap Semi
+Added Member To Class: ClassName=PWR_PCB Member=Component C26 Cap Semi
+Added Member To Class: ClassName=PWR_PCB Member=Component C32 Cap Semi
+Added Member To Class: ClassName=PWR_PCB Member=Component C44 Cap Semi
+Added Member To Class: ClassName=PWR_PCB Member=Component C58 Cap Semi
+Added Member To Class: ClassName=PWR_PCB Member=Component C66 Cap Semi
+Added Member To Class: ClassName=PWR_PCB Member=Component C72 Cap Semi
+Added Member To Class: ClassName=PWR_PCB Member=Component C74 Cap Semi
+Added Member To Class: ClassName=PWR_PCB Member=Component C81 Cap Semi
+Added Member To Class: ClassName=PWR_PCB Member=Component C89 Cap Semi
+Added Member To Class: ClassName=PWR_PCB Member=Component H9 HEADER_2X6_SMT
+Added Member To Class: ClassName=PWR_PCB Member=Component H10 HEADER_2X6_SMT
+Added Member To Class: ClassName=PWR_PCB Member=Component H11 HEADER_2X2_SMT
+Added Member To Class: ClassName=PWR_PCB Member=Component H15 HEADER_2X6_SMT
+Added Member To Class: ClassName=PWR_PCB Member=Component H16 HEADER_2X6_SMT
+Added Member To Class: ClassName=PWR_PCB Member=Component U5 MAX13003
+Added Member To Class: ClassName=PWR_PCB Member=Component U6 MAX13003
+Added Member To Class: ClassName=PWR_PCB Member=Component VR3 5K
+Added Member To Class: ClassName=PWR_PCB Member=Component VR4 5K
+Added Room: Name=PWR_PCB

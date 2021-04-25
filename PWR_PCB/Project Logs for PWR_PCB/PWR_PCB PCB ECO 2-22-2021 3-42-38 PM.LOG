@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=VDD12_0 Pin=H11-1
+Added Pin To Net: NetName=GND Pin=H11-3
+Added Member To Class: ClassName=PWR_PCB Member=Component C17 Cap Semi
+Added Member To Class: ClassName=PWR_PCB Member=Component C43 Cap Semi
+Added Room: Name=PWR_PCB

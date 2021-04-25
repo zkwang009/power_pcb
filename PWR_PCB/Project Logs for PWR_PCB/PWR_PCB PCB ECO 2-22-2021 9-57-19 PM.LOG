@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=H2 NewDesignator=H4
+Change Component Designator: OldDesignator=H3 NewDesignator=H2
+Change Component Designator: OldDesignator=H4 NewDesignator=H3
+Added Member To Class: ClassName=PWR_PCB Member=Component H3 HEADER_2X2_SMT
+Added Member To Class: ClassName=PWR_PCB Member=Component H4 HEADER_2X2_SMT

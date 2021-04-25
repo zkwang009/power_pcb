@@ -1,0 +1,9 @@
+Change Component Library : Designator=J1 Old Library=BWRC.SchLib New Library=200G_TX_LIB.SchLib
+Change Component Library : Designator=J2 Old Library=BWRC.SchLib New Library=200G_TX_LIB.SchLib
+Change Component Library : Designator=J3 Old Library=BWRC.SchLib New Library=200G_TX_LIB.SchLib
+Change Component Library : Designator=J4 Old Library=BWRC.SchLib New Library=200G_TX_LIB.SchLib
+Change Component Library : Designator=J5 Old Library=BWRC.SchLib New Library=200G_TX_LIB.SchLib
+Change Component Library : Designator=J6 Old Library=BWRC.SchLib New Library=200G_TX_LIB.SchLib
+Change Component Library : Designator=J7 Old Library=BWRC.SchLib New Library=200G_TX_LIB.SchLib
+Change Component Library : Designator=J8 Old Library=BWRC.SchLib New Library=200G_TX_LIB.SchLib
+Added Room: Name=PWR_PCB

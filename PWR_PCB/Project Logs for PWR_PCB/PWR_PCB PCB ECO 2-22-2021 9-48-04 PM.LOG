@@ -1,0 +1,104 @@
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=VDD33 Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=VDD33 Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=VDD33 Pin=C4-2
+Added Pin To Net: NetName=NetC6_1 Pin=C6-1
+Added Pin To Net: NetName=VDD1 Pin=C6-2
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Pin To Net: NetName=VDD2 Pin=C7-2
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=VDD3 Pin=C8-2
+Added Pin To Net: NetName=GND Pin=H2-1
+Added Pin To Net: NetName=EN_VDD3 Pin=H2-2
+Added Pin To Net: NetName=VDD33 Pin=H2-3
+Added Pin To Net: NetName=EN_VDD3 Pin=H2-4
+Added Pin To Net: NetName=GND Pin=H3-1
+Added Pin To Net: NetName=EN_VDD1 Pin=H3-2
+Added Pin To Net: NetName=VDD33 Pin=H3-3
+Added Pin To Net: NetName=EN_VDD1 Pin=H3-4
+Added Pin To Net: NetName=GND Pin=H4-1
+Added Pin To Net: NetName=EN_VDD2 Pin=H4-2
+Added Pin To Net: NetName=VDD33 Pin=H4-3
+Added Pin To Net: NetName=EN_VDD2 Pin=H4-4
+Added Pin To Net: NetName=GND Pin=H6-1
+Added Pin To Net: NetName=VDD1 Pin=H6-2
+Added Pin To Net: NetName=GND Pin=H6-3
+Added Pin To Net: NetName=VDD1 Pin=H6-4
+Added Pin To Net: NetName=GND Pin=H6-5
+Added Pin To Net: NetName=VDD1 Pin=H6-6
+Added Pin To Net: NetName=GND Pin=H6-7
+Added Pin To Net: NetName=VDD1 Pin=H6-8
+Added Pin To Net: NetName=GND Pin=H7-1
+Added Pin To Net: NetName=VDD2 Pin=H7-2
+Added Pin To Net: NetName=GND Pin=H7-3
+Added Pin To Net: NetName=VDD2 Pin=H7-4
+Added Pin To Net: NetName=GND Pin=H7-5
+Added Pin To Net: NetName=VDD2 Pin=H7-6
+Added Pin To Net: NetName=GND Pin=H7-7
+Added Pin To Net: NetName=VDD2 Pin=H7-8
+Added Pin To Net: NetName=GND Pin=H8-1
+Added Pin To Net: NetName=VDD3 Pin=H8-2
+Added Pin To Net: NetName=GND Pin=H8-3
+Added Pin To Net: NetName=VDD3 Pin=H8-4
+Added Pin To Net: NetName=GND Pin=H8-5
+Added Pin To Net: NetName=VDD3 Pin=H8-6
+Added Pin To Net: NetName=GND Pin=H8-7
+Added Pin To Net: NetName=VDD3 Pin=H8-8
+Added Pin To Net: NetName=NetC6_1 Pin=R2-1
+Added Pin To Net: NetName=VDD1 Pin=R2-2
+Added Pin To Net: NetName=NetC7_1 Pin=R3-1
+Added Pin To Net: NetName=VDD2 Pin=R3-2
+Added Pin To Net: NetName=NetC8_1 Pin=R4-1
+Added Pin To Net: NetName=VDD3 Pin=R4-2
+Added Pin To Net: NetName=EN_VDD1 Pin=U2-1
+Added Pin To Net: NetName=VDD33 Pin=U2-2
+Added Pin To Net: NetName=GND Pin=U2-3
+Added Pin To Net: NetName=VDD1 Pin=U2-4
+Added Pin To Net: NetName=NetC6_1 Pin=U2-5
+Added Pin To Net: NetName=GND Pin=U2-6
+Added Pin To Net: NetName=EN_VDD2 Pin=U3-1
+Added Pin To Net: NetName=VDD33 Pin=U3-2
+Added Pin To Net: NetName=GND Pin=U3-3
+Added Pin To Net: NetName=VDD2 Pin=U3-4
+Added Pin To Net: NetName=NetC7_1 Pin=U3-5
+Added Pin To Net: NetName=GND Pin=U3-6
+Added Pin To Net: NetName=EN_VDD3 Pin=U4-1
+Added Pin To Net: NetName=VDD33 Pin=U4-2
+Added Pin To Net: NetName=GND Pin=U4-3
+Added Pin To Net: NetName=VDD3 Pin=U4-4
+Added Pin To Net: NetName=NetC8_1 Pin=U4-5
+Added Pin To Net: NetName=GND Pin=U4-6
+Added Pin To Net: NetName=NetC7_1 Pin=VR2-1
+Added Pin To Net: NetName=GND Pin=VR2-2
+Added Pin To Net: NetName=NC2 Pin=VR2-3
+Added Pin To Net: NetName=NetC8_1 Pin=VR3-1
+Added Pin To Net: NetName=GND Pin=VR3-2
+Added Pin To Net: NetName=NC3 Pin=VR3-3
+Added Pin To Net: NetName=NetC6_1 Pin=VR4-1
+Added Pin To Net: NetName=GND Pin=VR4-2
+Added Pin To Net: NetName=NC1 Pin=VR4-3
+Added Member To Class: ClassName=PWR_PCB Member=Component C2 Cap Semi
+Added Member To Class: ClassName=PWR_PCB Member=Component C3 Cap Semi
+Added Member To Class: ClassName=PWR_PCB Member=Component C4 Cap Semi
+Added Member To Class: ClassName=PWR_PCB Member=Component C6 Cap Semi
+Added Member To Class: ClassName=PWR_PCB Member=Component C7 Cap Semi
+Added Member To Class: ClassName=PWR_PCB Member=Component C8 Cap Semi
+Added Member To Class: ClassName=PWR_PCB Member=Component H2 HEADER_2X2_SMT
+Added Member To Class: ClassName=PWR_PCB Member=Component H3 HEADER_2X2_SMT
+Added Member To Class: ClassName=PWR_PCB Member=Component H4 HEADER_2X2_SMT
+Added Member To Class: ClassName=PWR_PCB Member=Component H5 HEADER_2X4_SMT
+Added Member To Class: ClassName=PWR_PCB Member=Component H6 HEADER_2X4_SMT
+Added Member To Class: ClassName=PWR_PCB Member=Component H7 HEADER_2X4_SMT
+Added Member To Class: ClassName=PWR_PCB Member=Component H8 HEADER_2X4_SMT
+Added Member To Class: ClassName=PWR_PCB Member=Component R2 Res3
+Added Member To Class: ClassName=PWR_PCB Member=Component R3 Res3
+Added Member To Class: ClassName=PWR_PCB Member=Component R4 Res3
+Added Member To Class: ClassName=PWR_PCB Member=Component U2 LP38511TJ-ADJ
+Added Member To Class: ClassName=PWR_PCB Member=Component U3 LP38511TJ-ADJ
+Added Member To Class: ClassName=PWR_PCB Member=Component U4 LP38511TJ-ADJ
+Added Member To Class: ClassName=PWR_PCB Member=Component VR2 5K
+Added Member To Class: ClassName=PWR_PCB Member=Component VR3 5K
+Added Member To Class: ClassName=PWR_PCB Member=Component VR4 5K
+Added Room: Name=PWR_PCB

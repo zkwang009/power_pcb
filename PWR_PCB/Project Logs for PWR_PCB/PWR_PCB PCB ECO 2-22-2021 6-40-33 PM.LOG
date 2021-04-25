@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=IREF9 Pin=C25-2
+Removed Pin From Net: NetName=IREF9 Pin=C33-2
+Added Pin To Net: NetName=IREF8 Pin=C25-2
+Added Pin To Net: NetName=IREF8 Pin=C33-2
+Added Room: Name=PWR_PCB

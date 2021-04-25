@@ -1,0 +1,11 @@
+Change Component Designator: OldDesignator=R7 NewDesignator=R9
+Change Component Designator: OldDesignator=R8 NewDesignator=R10
+Change Component Designator: OldDesignator=R9 NewDesignator=R19
+Change Component Designator: OldDesignator=R10 NewDesignator=R20
+Change Component Designator: OldDesignator=R11 NewDesignator=R15
+Change Component Designator: OldDesignator=R12 NewDesignator=R16
+Added Member To Class: ClassName=PWR_PCB Member=Component R15 Res3
+Added Member To Class: ClassName=PWR_PCB Member=Component R16 Res3
+Added Member To Class: ClassName=PWR_PCB Member=Component R19 Res3
+Added Member To Class: ClassName=PWR_PCB Member=Component R20 Res3
+Added Room: Name=PWR_PCB

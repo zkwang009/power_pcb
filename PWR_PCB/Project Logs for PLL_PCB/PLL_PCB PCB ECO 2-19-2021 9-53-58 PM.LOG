@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=NC0 Pin=VR2-3
+Removed Pin From Net: NetName=NC0 Pin=VR3-3
+Removed Pin From Net: NetName=NC0 Pin=VR4-3
+Removed Pin From Net: NetName=NC0 Pin=VR5-3
+Removed Pin From Net: NetName=NC0 Pin=VR6-3
+Removed Pin From Net: NetName=NC0 Pin=VR7-3
+Removed Pin From Net: NetName=NC0 Pin=VR8-3
+Added Pin To Net: NetName=NC1 Pin=VR2-3
+Added Net: Name=NC1
+Added Pin To Net: NetName=NC2 Pin=VR3-3
+Added Net: Name=NC2
+Added Pin To Net: NetName=NC3 Pin=VR4-3
+Added Net: Name=NC3
+Added Pin To Net: NetName=NC4 Pin=VR5-3
+Added Net: Name=NC4
+Added Pin To Net: NetName=NC5 Pin=VR6-3
+Added Net: Name=NC5
+Added Pin To Net: NetName=NC6 Pin=VR7-3
+Added Net: Name=NC6
+Added Pin To Net: NetName=NC7 Pin=VR8-3
+Added Net: Name=NC7
+Added Room: Name=PLL_PCB

@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=H2 NewDesignator=H4
+Change Component Designator: OldDesignator=H3 NewDesignator=H2
+Change Component Designator: OldDesignator=H4 NewDesignator=H3
+Added Member To Class: ClassName=PWR_PCB Member=Component VR2 5K
+Added Member To Class: ClassName=PWR_PCB Member=Component VR3 5K

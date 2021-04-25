@@ -1,0 +1,23 @@
+Added Pin To Net: NetName=GND Pin=J13-1
+Added Pin To Net: NetName=GND Pin=J13-2
+Added Pin To Net: NetName=CK3_P Pin=J13-3
+Added Pin To Net: NetName=GND Pin=J13-4
+Added Pin To Net: NetName=GND Pin=J14-1
+Added Pin To Net: NetName=GND Pin=J14-2
+Added Pin To Net: NetName=CK3_N Pin=J14-3
+Added Pin To Net: NetName=GND Pin=J14-4
+Added Pin To Net: NetName=GND Pin=J15-1
+Added Pin To Net: NetName=GND Pin=J15-2
+Added Pin To Net: NetName=CK3_P Pin=J15-3
+Added Pin To Net: NetName=GND Pin=J15-4
+Added Pin To Net: NetName=GND Pin=J16-1
+Added Pin To Net: NetName=GND Pin=J16-2
+Added Pin To Net: NetName=CK3_N Pin=J16-3
+Added Pin To Net: NetName=GND Pin=J16-4
+Added Member To Class: ClassName=PWR_PCB Member=Component J11 CON_K_SMT_2d92
+Added Member To Class: ClassName=PWR_PCB Member=Component J12 CON_K_SMT_2d92
+Added Member To Class: ClassName=PWR_PCB Member=Component J13 CON_K_SMT_2d92
+Added Member To Class: ClassName=PWR_PCB Member=Component J14 CON_K_SMT_2d92
+Added Member To Class: ClassName=PWR_PCB Member=Component J15 CON_K_SMT_2d92
+Added Member To Class: ClassName=PWR_PCB Member=Component J16 CON_K_SMT_2d92
+Added Room: Name=PWR_PCB

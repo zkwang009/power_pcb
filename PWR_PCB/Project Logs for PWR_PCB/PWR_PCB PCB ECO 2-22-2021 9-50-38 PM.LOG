@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=VR2 NewDesignator=VR3
+Change Component Designator: OldDesignator=VR3 NewDesignator=VR4
+Change Component Designator: OldDesignator=VR4 NewDesignator=VR2
+Added Room: Name=PWR_PCB

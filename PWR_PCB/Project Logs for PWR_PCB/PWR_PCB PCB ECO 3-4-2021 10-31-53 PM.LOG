@@ -1,0 +1,72 @@
+Change Component Designator: OldDesignator=J1 NewDesignator=J3
+Change Component Designator: OldDesignator=J2 NewDesignator=J4
+Change Component Designator: OldDesignator=J3 NewDesignator=J5
+Change Component Designator: OldDesignator=J4 NewDesignator=J6
+Change Component Designator: OldDesignator=J5 NewDesignator=J9
+Change Component Designator: OldDesignator=J6 NewDesignator=J10
+Change Component Designator: OldDesignator=J7 NewDesignator=J11
+Change Component Designator: OldDesignator=J8 NewDesignator=J12
+Change Component Designator: OldDesignator=J9 NewDesignator=J15
+Change Component Designator: OldDesignator=J10 NewDesignator=J16
+Change Component Designator: OldDesignator=J11 NewDesignator=J17
+Change Component Designator: OldDesignator=J12 NewDesignator=J18
+Change Component Designator: OldDesignator=J13 NewDesignator=J21
+Change Component Designator: OldDesignator=J14 NewDesignator=J22
+Change Component Designator: OldDesignator=J15 NewDesignator=J23
+Change Component Designator: OldDesignator=J16 NewDesignator=J24
+Added Component: Designator=J1(CON-001-250X250/SMA-SMT)
+Added Component: Designator=J2(CON-001-250X250/SMA-SMT)
+Added Component: Designator=J7(CON-001-250X250/SMA-SMT)
+Added Component: Designator=J8(CON-001-250X250/SMA-SMT)
+Added Component: Designator=J13(CON_K_SMT_2d92)
+Added Component: Designator=J14(CON_K_SMT_2d92)
+Added Component: Designator=J19(CON_K_SMT_2d92)
+Added Component: Designator=J20(CON_K_SMT_2d92)
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J1-4
+Added Pin To Net: NetName=GND Pin=J1-5
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=GND Pin=J2-3
+Added Pin To Net: NetName=GND Pin=J2-4
+Added Pin To Net: NetName=GND Pin=J2-5
+Added Pin To Net: NetName=GND Pin=J7-2
+Added Pin To Net: NetName=GND Pin=J7-3
+Added Pin To Net: NetName=GND Pin=J7-4
+Added Pin To Net: NetName=GND Pin=J7-5
+Added Pin To Net: NetName=GND Pin=J8-2
+Added Pin To Net: NetName=GND Pin=J8-3
+Added Pin To Net: NetName=GND Pin=J8-4
+Added Pin To Net: NetName=GND Pin=J8-5
+Added Pin To Net: NetName=GND Pin=J13-1
+Added Pin To Net: NetName=GND Pin=J13-2
+Added Pin To Net: NetName=GND Pin=J13-4
+Added Pin To Net: NetName=GND Pin=J14-1
+Added Pin To Net: NetName=GND Pin=J14-2
+Added Pin To Net: NetName=GND Pin=J14-4
+Added Pin To Net: NetName=GND Pin=J19-1
+Added Pin To Net: NetName=GND Pin=J19-2
+Added Pin To Net: NetName=GND Pin=J19-4
+Added Pin To Net: NetName=GND Pin=J20-1
+Added Pin To Net: NetName=GND Pin=J20-2
+Added Pin To Net: NetName=GND Pin=J20-4
+Added Pin To Net: NetName=CK0 Pin=J1-1
+Added Pin To Net: NetName=CK0 Pin=J2-1
+Added Net: Name=CK0
+Added Pin To Net: NetName=CK1 Pin=J7-1
+Added Pin To Net: NetName=CK1 Pin=J8-1
+Added Net: Name=CK1
+Added Pin To Net: NetName=CK2 Pin=J13-3
+Added Pin To Net: NetName=CK2 Pin=J14-3
+Added Net: Name=CK2
+Added Pin To Net: NetName=CK3 Pin=J19-3
+Added Pin To Net: NetName=CK3 Pin=J20-3
+Added Net: Name=CK3
+Added Member To Class: ClassName=PWR_PCB Member=Component J17 CON_K_SMT_2d92
+Added Member To Class: ClassName=PWR_PCB Member=Component J18 CON_K_SMT_2d92
+Added Member To Class: ClassName=PWR_PCB Member=Component J19 CON_K_SMT_2d92
+Added Member To Class: ClassName=PWR_PCB Member=Component J20 CON_K_SMT_2d92
+Added Member To Class: ClassName=PWR_PCB Member=Component J21 CON_K_SMT_2d92
+Added Member To Class: ClassName=PWR_PCB Member=Component J22 CON_K_SMT_2d92
+Added Member To Class: ClassName=PWR_PCB Member=Component J23 CON_K_SMT_2d92
+Added Member To Class: ClassName=PWR_PCB Member=Component J24 CON_K_SMT_2d92

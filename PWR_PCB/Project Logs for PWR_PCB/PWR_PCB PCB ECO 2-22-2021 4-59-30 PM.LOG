@@ -1,0 +1,39 @@
+Added Pin To Net: NetName=GND Pin=C17-1
+Added Pin To Net: NetName=IREF0 Pin=C17-2
+Added Pin To Net: NetName=IREF0 Pin=R9-1
+Added Pin To Net: NetName=IREF0_M Pin=R9-2
+Added Member To Class: ClassName=PWR_PCB Member=Component C10 Cap Semi
+Added Member To Class: ClassName=PWR_PCB Member=Component C13 Cap Semi
+Added Member To Class: ClassName=PWR_PCB Member=Component C15 Cap Semi
+Added Member To Class: ClassName=PWR_PCB Member=Component C17 Cap Semi
+Added Member To Class: ClassName=PWR_PCB Member=Component C23 Cap Semi
+Added Member To Class: ClassName=PWR_PCB Member=Component C25 Cap Semi
+Added Member To Class: ClassName=PWR_PCB Member=Component C26 Cap Semi
+Added Member To Class: ClassName=PWR_PCB Member=Component C27 Cap Semi
+Added Member To Class: ClassName=PWR_PCB Member=Component C28 Cap Semi
+Added Member To Class: ClassName=PWR_PCB Member=Component C29 Cap Semi
+Added Member To Class: ClassName=PWR_PCB Member=Component C30 Cap Semi
+Added Member To Class: ClassName=PWR_PCB Member=Component C31 Cap Semi
+Added Member To Class: ClassName=PWR_PCB Member=Component C32 Cap Semi
+Added Member To Class: ClassName=PWR_PCB Member=Component C33 Cap Semi
+Added Member To Class: ClassName=PWR_PCB Member=Component C34 Cap Semi
+Added Member To Class: ClassName=PWR_PCB Member=Component C35 Cap Semi
+Added Member To Class: ClassName=PWR_PCB Member=Component C36 Cap Semi
+Added Member To Class: ClassName=PWR_PCB Member=Component C37 Cap Semi
+Added Member To Class: ClassName=PWR_PCB Member=Component C38 Cap Semi
+Added Member To Class: ClassName=PWR_PCB Member=Component C39 Cap Semi
+Added Member To Class: ClassName=PWR_PCB Member=Component C40 Cap Semi
+Added Member To Class: ClassName=PWR_PCB Member=Component C41 Cap Semi
+Added Member To Class: ClassName=PWR_PCB Member=Component C42 Cap Semi
+Added Member To Class: ClassName=PWR_PCB Member=Component C43 Cap Semi
+Added Member To Class: ClassName=PWR_PCB Member=Component C44 Cap Semi
+Added Member To Class: ClassName=PWR_PCB Member=Component H11 HEADER_2X6_SMT
+Added Member To Class: ClassName=PWR_PCB Member=Component H12 HEADER_2X6_SMT
+Added Member To Class: ClassName=PWR_PCB Member=Component H13 HEADER_2X2_SMT
+Added Member To Class: ClassName=PWR_PCB Member=Component H14 HEADER_2X2_SMT
+Added Member To Class: ClassName=PWR_PCB Member=Component H15 HEADER_2X6_SMT
+Added Member To Class: ClassName=PWR_PCB Member=Component H18 HEADER_2X6_SMT
+Added Member To Class: ClassName=PWR_PCB Member=Component R9 Res3
+Added Member To Class: ClassName=PWR_PCB Member=Component VR2 5K
+Added Member To Class: ClassName=PWR_PCB Member=Component VR4 5K
+Added Room: Name=PWR_PCB
